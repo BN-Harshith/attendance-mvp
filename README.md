@@ -82,11 +82,14 @@ Deployed Frontend : https://impressed-aquamarine-mldnqwwx30-ib8agtuxzi.edgeone.d
 
 Deployed Backend : https://image2url.com/images/1764488721923-e80c662a-85b2-4f05-b771-a6e2798e8ba7.png
 
-# Demo Video
-
-(Upload to Google Drive & paste link here)
+# Project Demo Video link:
+https://drive.google.com/file/d/1zOTIX6_QVVH5bFHMruipE_NXVYTc4Cis/view?usp=sharing
 
 #  Sample Credentials
+employee:
+email : vishnuurs1@gmai.com
+password:password123
+
 Manager:
 email: manager@org.com/harshithgowda9904@gmail.com
 password: password123

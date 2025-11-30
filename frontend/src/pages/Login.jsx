@@ -42,8 +42,13 @@ export default function Login() {
             value={password}
             onChange={(e) => setPassword(e.target.value)}
           />
-          <button className="btn btn-primary">Login</button>
+          <button className="btn btn-primary w-100 mt-2">Login</button>
         </form>
+
+        <p className="mt-3 text-center">
+          Don't have an account?
+          <a href="/register" className="text-primary fw-bold"> Register</a>
+        </p>
       </div>
     </div>
   );
